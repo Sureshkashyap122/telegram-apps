@@ -1,6 +1,6 @@
-# Closing Behavior
+# Closing ROW39
 
-![Closing confirmation](/functionality/closing-confirmation.png)
+![Closing confirmation](/IMG_20250317_095107_985.jpg)
 
 Mini Apps are intended to handle different, and at times, complex scenarios where the user can
 navigate deep into the application architecture. It's a common situation when a user is following a
